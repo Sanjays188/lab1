@@ -2,4 +2,6 @@
 void main(){
   int a=10;
   int b=20;
-printf(a+b)
+printf(a+b);
+printf("Hello world");
+}
